@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/gunjanchauhan30"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/gunnuchauhan30"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://gunnuchauhan30.github.io/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://huggingface.co/gunjanchauhan30"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/gunjanchauhan30"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="https://app.docker.com/accounts/gunjan300"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
   <a href="mailto:gunnuchauhan30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=gunnuchauhan30&label=Profile%20Views&color=8b5cf6&style=flat-square" />
 </p>
@@ -71,7 +74,7 @@ I like work that goes all the way from a trained model to something a team actua
 | **Stack** | `Python` `YOLOv8` `FastAPI` `Docker` `PostgreSQL` `Roboflow` `OpenPyXL` |
 | **Scale** | 5 models — PPE, Handwashing, Floor, Garbage, Food freshness |
 | **Impact** | mAP50 of 65.3%–91.2%; violations logged to PostgreSQL and exported as Excel compliance reports |
-| **Links** | [GitHub](https://github.com/gunnuchauhan30) |
+| **Links** | [GitHub](https://github.com/gunnuchauhan30/kitchen-hygiene-detection) |
 
 </details>
 
@@ -86,7 +89,7 @@ I like work that goes all the way from a trained model to something a team actua
 | **Stack** | `FastAPI` `Flask` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `Railway` |
 | **Scale** | 147 materials · 32 suppliers · 43 GRNs seeded; 4 roles (admin, supervisor, staff, viewer) |
 | **Impact** | Purchase → QC → Accounts and Request → Operation → Accounts flows; stock updates only after approval |
-| **Links** | [Portfolio](https://gunnuchauhan30.github.io/) |
+| **Links** | [GitHub](https://github.com/gunnuchauhan30/ChandaEnterprises) · [Portfolio](https://gunnuchauhan30.github.io/) |
 
 </details>
 
@@ -100,7 +103,7 @@ I like work that goes all the way from a trained model to something a team actua
 |---|---|
 | **Stack** | `FastAPI` `PostgreSQL` `React` `Tailwind CSS` `Framer Motion` `Three.js` `Docker Compose` `Railway` |
 | **Impact** | Separate app with its own DB, backend, frontend and login; one `docker compose` command runs everything |
-| **Links** | [Portfolio](https://gunnuchauhan30.github.io/) |
+| **Links** | [GitHub](https://github.com/gunnuchauhan30/production) · [Portfolio](https://gunnuchauhan30.github.io/) |
 
 </details>
 
@@ -139,7 +142,7 @@ I like work that goes all the way from a trained model to something a team actua
 | Aspect | Detail |
 |---|---|
 | **Stack** | `Python` `Flask` `OpenCV` `LBPH` `SQLite` |
-| **Links** | [GitHub](https://github.com/gunnuchauhan30) |
+| **Links** | [GitHub](https://github.com/gunnuchauhan30/Student-Attendence-System) |
 
 </details>
 
@@ -152,6 +155,22 @@ I like work that goes all the way from a trained model to something a team actua
 | Aspect | Detail |
 |---|---|
 | **Stack** | `ML` `OpenCV` `IoT` |
+
+</details>
+
+<details>
+<summary>📁 <b>More repositories</b></summary>
+<br>
+
+| Repo | |
+|---|---|
+| [classroom-Assistant](https://github.com/gunnuchauhan30/classroom-Assistant) | Python |
+| [Campus-ledger](https://github.com/gunnuchauhan30/Campus-ledger) | HTML |
+| [Sentiment-analyse](https://github.com/gunnuchauhan30/Sentiment-analyse) | Python |
+| [Resume-scoring](https://github.com/gunnuchauhan30/Resume-scoring) | Resume scoring |
+| [TodoApp](https://github.com/gunnuchauhan30/TodoApp) | Todo app |
+
+👉 [All repositories](https://github.com/gunnuchauhan30/?tab=repositories)
 
 </details>
 
@@ -263,7 +282,11 @@ open_to    : AI/ML Engineer roles · Computer Vision & LLM projects · Collabora
   <a href="https://www.linkedin.com/in/gunjanchauhan30"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/gunnuchauhan30"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://gunnuchauhan30.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/gunjanchauhan30"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://huggingface.co/gunjanchauhan30"><img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://app.docker.com/accounts/gunjan300"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="mailto:gunnuchauhan30@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gunnuchauhan30.github.io/"><img src="https://img.shields.io/badge/RESUME-3b82f6?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
@@ -279,5 +302,6 @@ and stays correct when it matters.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/gunnuchauhan30?label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/gunnuchauhan30?label=Stars&style=flat-square&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=gunnuchauhan30&label=Profile%20Views&color=8b5cf6&style=flat-square" />
 </p>
