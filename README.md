@@ -327,19 +327,7 @@ I like work that goes all the way from a trained model to something a team actua
 
 ---
 
-## `CONTRIBUTION_SNAKE`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-<p align="center"><sub>Auto-generated daily by a GitHub Action</sub></p>
-
----
 
 ## `CURRENT_FOCUS`
 
