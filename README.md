@@ -180,43 +180,59 @@ I like work that goes all the way from a trained model to something a team actua
 
 <div align="center">
 
-**Computer Vision & ML**
+<img src="https://skillicons.dev/icons?i=py,c,js,ts,html,css,react,tailwind,nodejs,fastapi&perline=10" /><br>
+<img src="https://skillicons.dev/icons?i=flask,pytorch,opencv,pandas,numpy,postgres,mysql,sqlite,redis,docker&perline=10" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bootstrap,threejs&perline=10" />
 
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-7c3aed?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Roboflow](https://img.shields.io/badge/-Roboflow-6706CE?style=for-the-badge)
+<br><br>
 
-**LLMs & Data**
+<code>GenAI & LLM Ecosystem</code><br><br>
 
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Prophet](https://img.shields.io/badge/-Prophet-0A66C2?style=for-the-badge)
+  <img src="https://img.shields.io/badge/GEMINI-7c3aed?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE-5b21b6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/HUGGING%20FACE-a855f7?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPENAI%20API-4c1d95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20EVALUATION-8b5cf6?style=for-the-badge" />
 
-**Backend & Databases**
+<br><br><code>Computer Vision & ML</code><br><br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/YOLOV8-be185d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPENCV-db2777?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTORCH-9d174d?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROBOFLOW-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PANDAS-831843?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-be123c?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PROPHET-f472b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DTW-d946ef?style=for-the-badge" />
 
-**Frontend & Deployment**
+<br><br><code>Backend, Databases & DevOps</code><br><br>
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img src="https://img.shields.io/badge/FASTAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FLASK-115e59?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLALCHEMY-0d9488?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ALEMBIC-14b8a6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CELERY-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REDIS-b91c1c?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-2563eb?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLITE-3b82f6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAILWAY-1e3a8a?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/SENTRY-4338ca?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-1e40af?style=for-the-badge&logo=git&logoColor=white" />
 
-**Domain Expertise**
+<br><br><code>Domain Expertise</code><br><br>
 
-![Computer Vision](https://img.shields.io/badge/-COMPUTER%20VISION-1e3a5f?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/-LLM%20EVALUATION-2563eb?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/-PROMPT%20ENGINEERING-0ea5e9?style=for-the-badge)
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-1e3a5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20EVALUATION-1e40af?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MULTI--MODEL%20INFERENCE-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA%20ANNOTATION-60a5fa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TIME%20SERIES-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FULL--STACK-0284c7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRODUCTION%20SYSTEMS-0369a1?style=for-the-badge" />
 
 </div>
 
@@ -224,11 +240,64 @@ I like work that goes all the way from a trained model to something a team actua
 
 ## `WORK_EXPERIENCE`
 
-| | |
-|---|---|
-| **Aug 2026 – Present** | 🏢 **Software Engineer, AI/ML — Chanda Enterprises Pvt Ltd** · Faridabad (On-site)<br>• Built a full-stack Store & Production Management System (FastAPI, PostgreSQL, Flask), live on Railway, with FIFO inventory and per-batch allocation<br>• Role-based approval workflows so stock changes only after verification<br>• Designed DB schema, Alembic migrations and role-aware dashboards |
-| **Mar – Jun 2026** | 🧠 **LLM Post Training Intern — Ethara AI** · Remote<br>• Cleaned and analysed evaluation data with Pandas/NumPy to find patterns in model errors<br>• Data annotation, prompt engineering, response evaluation and justification writing |
-| **Jan – Jul 2026** | 👁️ **Software Developer Intern — Concientech IT Solutions** · Remote<br>• Built Kitchen Hygiene Detection with 5 custom YOLOv8 models and a parallel inference engine (4.3× faster)<br>• FastAPI services, OpenPyXL Excel reports, Docker<br>• DTW stock pattern matching — 83.3% precision on 50 live NSE stocks |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/2026-a855f7?style=for-the-badge" /><br>
+      <sub>Aug – Present</sub>
+    </td>
+    <td>
+      <h3>🏢 Software Engineer, AI/ML — <b>Chanda Enterprises Pvt Ltd</b></h3>
+      <blockquote><i>Building production systems where approvals, inventory and dashboards have to be correct. · Faridabad, On-site</i></blockquote>
+      <ul>
+      <li>🏭 Built a full-stack <b>Store &amp; Production Management System</b> — FastAPI, PostgreSQL, Flask — live on Railway</li>
+      <li>📦 Implemented <b>FIFO inventory</b> with per-batch stock allocation</li>
+      <li>✅ Designed <b>role-based approval workflows</b> (Purchase → QC → Accounts; Request → Operation → Accounts) so stock changes only after verification</li>
+      <li>🗄️ Designed the <b>database schema &amp; Alembic migrations</b>; added role-aware dashboards with pending approvals</li>
+      </ul>
+      <img src="https://img.shields.io/badge/FastAPI-5b21b6?style=flat-square" /> <img src="https://img.shields.io/badge/Flask-6d28d9?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/Alembic-8b5cf6?style=flat-square" /> <img src="https://img.shields.io/badge/SQLAlchemy-a78bfa?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-9333ea?style=flat-square" /> <img src="https://img.shields.io/badge/Railway-a855f7?style=flat-square" /> <img src="https://img.shields.io/badge/React-c084fc?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/2026-a855f7?style=for-the-badge" /><br>
+      <sub>Mar – Jun</sub>
+    </td>
+    <td>
+      <h3>🧠 LLM Post Training Intern — <b>Ethara AI</b></h3>
+      <blockquote><i>Making LLMs follow instructions better through quality data and evaluation. · Remote</i></blockquote>
+      <ul>
+      <li>📊 Cleaned, structured and analysed evaluation data with <b>Pandas &amp; NumPy</b> to find patterns in model errors and response quality</li>
+      <li>✍️ <b>Data annotation, prompt engineering, response evaluation</b> and justification writing to improve accuracy and instruction-following</li>
+      <li>🌟 Delivered high-quality training data and detailed feedback with <b>consistently positive client feedback</b></li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-be185d?style=flat-square" /> <img src="https://img.shields.io/badge/Pandas-db2777?style=flat-square" /> <img src="https://img.shields.io/badge/NumPy-ec4899?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt%20Eng.-f472b6?style=flat-square" /> <img src="https://img.shields.io/badge/LLM%20Evaluation-d946ef?style=flat-square" /> <img src="https://img.shields.io/badge/Annotation-c026d3?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/2026-a855f7?style=for-the-badge" /><br>
+      <sub>Jan – Jul</sub>
+    </td>
+    <td>
+      <h3>👁️ Software Developer Intern — <b>Concientech IT Solutions</b></h3>
+      <blockquote><i>Computer vision systems that run on live video. · Remote, Faridabad</i></blockquote>
+      <ul>
+      <li>🎥 Built a <b>Kitchen Hygiene Detection System</b> with <b>5 custom YOLOv8 models</b> — PPE, handwashing, floor, garbage, food freshness</li>
+      <li>⚡ Parallel multi-model inference engine — <b>4.3× faster</b> (95 ms vs 340 ms per frame)</li>
+      <li>📑 Developed <b>FastAPI</b> services, automated <b>Excel violation reports</b> with OpenPyXL, containerised with <b>Docker</b></li>
+      <li>📈 Implemented <b>Dynamic Time Warping</b> stock pattern matching — <b>83.3% precision</b> across 50 live NSE stocks</li>
+      </ul>
+      <img src="https://img.shields.io/badge/YOLOv8-0369a1?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-0284c7?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-0891b2?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square" /> <img src="https://img.shields.io/badge/Roboflow-2563eb?style=flat-square" /> <img src="https://img.shields.io/badge/OpenPyXL-3b82f6?style=flat-square" /> <img src="https://img.shields.io/badge/DTW-60a5fa?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -261,8 +330,14 @@ I like work that goes all the way from a trained model to something a team actua
 ## `CONTRIBUTION_SNAKE`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/gunnuchauhan30/gunnuchauhan30/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+
+<p align="center"><sub>Auto-generated daily by a GitHub Action</sub></p>
 
 ---
 
